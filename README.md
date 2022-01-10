@@ -25,13 +25,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/ZrFMa8N' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+---Gif Link---
+https://imgur.com/ZrFMa8N 
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-It was the first time I built a simple IOS application. It was very fun to see everything working together.
+It was the first time I built an IOS application. It was very fun to see everything working together.
 I had a typo in the project and took some time to notice that. Other than it was a smooth process.
 
 ## License
