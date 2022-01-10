@@ -19,9 +19,13 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var totalLabel: UILabel!
     
+    let userDefaults = UserDefaults()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        billAmountTextField.becomeFirstResponder();
+        
     }
     
     @IBAction func calculateTip(_ sender: Any) {
