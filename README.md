@@ -21,11 +21,10 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 
 
-## Video Walkthrough
+## GIF Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
----Gif Link---
 https://imgur.com/ZrFMa8N 
 
 
